@@ -1,6 +1,5 @@
 # INF2050_E22
-Dépôt Git des laboratoires du cours INF2050  
-Outils et pratiques de développement logiciel
+Dépôt Git des laboratoires du cours INF2050 - Outils et pratiques de développement logiciel
 
 ## Contenu
 - Première séance : Introduction à Netbeans/ GitHub 
@@ -19,9 +18,10 @@ Outils et pratiques de développement logiciel
 ## Liens utiles
 
 - [IDE NetBeans](https://netbeans.apache.org/)
--  [JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
+- [JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
 - [Guide du Markdown](https://www.markdownguide.org/cheat-sheet/)
 - [Commandes Git](https://git-scm.com/docs)
+- [Gitignore](https://git-scm.com/docs/gitignore)
 - [Java Code Conventions](https://www.oracle.com/java/technologies/javase/codeconventions-introduction.html)
 - [Guide Utilisateur JUnit](https://junit.org/junit5/docs/current/user-guide/#writing-tests)
 
