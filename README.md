@@ -1,6 +1,15 @@
 # INF2050_E22
 Dépôt Git des laboratoires du cours INF2050 - Outils et pratiques de développement logiciel
 
+## Présentation
+Salle de cours : PK-S1580
+
+[Discord AGEEI](https://discord.gg/kZ26vkNq)
+
+[Lien Zoom]() (Je vais essayer d'enregistrer les laboratoires pour un visionnement à distance).
+
+Contact: leclerc.yan-alexandre@courrier.uqam.ca
+
 ## Contenu
 - Première séance : Introduction à Netbeans/ GitHub 
 - Deuxième séance : 
